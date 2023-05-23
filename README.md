@@ -1,9 +1,11 @@
 ### Hi there 👋
 Seja bem vindo(a)!
 
-Muito prazer, me chamo Petrucia.
+Muito prazer, sou Petrucia, desenvolvedora Front-End. 
 
-Dev Front-End. 
+![image](https://github.com/petruciadayene/petruciadayene/assets/105949412/ad9d0576-4bdd-499c-b449-ecf84852991a)
+
+
 <!--
 **petruciadayene/petruciadayene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
