@@ -1,5 +1,9 @@
 ### Hi there 👋
+Seja bem vindo(a)!
 
+Muito prazer, me chamo Petrucia.
+
+Dev Front-End. 
 <!--
 **petruciadayene/petruciadayene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
